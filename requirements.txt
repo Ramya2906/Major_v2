@@ -4,5 +4,4 @@ numpy==1.19.5
 gunicorn
 pickle4
 scikit_learn==0.23.0
-
-
+escape
